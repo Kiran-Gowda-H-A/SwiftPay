@@ -146,7 +146,7 @@ npm run dev
 ## 🧾 Screenshots
 
 ### Login
-<img width="900" height="400" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/f6c0c053-6468-4e69-8db3-509b172aa37d" />
+<img width="1366" height="768" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/f6c0c053-6468-4e69-8db3-509b172aa37d" />
 
 ### Dashboard
  <img width="1366" height="768" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/439904bd-3df9-4996-bb4b-7bf96837a425" />
