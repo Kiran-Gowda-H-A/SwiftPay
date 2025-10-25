@@ -145,30 +145,33 @@ npm run dev
 
 ## 🧾 Screenshots
 
+### Login
+<img width="900" height="400" alt="Screenshot (185)" src="https://github.com/user-attachments/assets/f6c0c053-6468-4e69-8db3-509b172aa37d" />
+
 ### Dashboard
-![Dashboard](<img width="1366" height="768" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/439904bd-3df9-4996-bb4b-7bf96837a425" />
-)
+ <img width="1366" height="768" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/439904bd-3df9-4996-bb4b-7bf96837a425" />
+
 
 ### Add Money
-![Add Money](<img width="1366" height="768" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/ccc1b617-b0c9-401c-9ba2-441b95988b04" />
-)
+ <img width="1366" height="768" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/ccc1b617-b0c9-401c-9ba2-441b95988b04" />
+
 
 ### Send Money
-![Send Money](<img width="1366" height="768" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/b755cab1-1da6-4aa5-86df-ea2d2f7b76b9" />
-)
-<img width="1366" height="768" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/a29998e4-9a84-47e0-8206-7e6788da6837" />
+ <img width="1366" height="768" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/b755cab1-1da6-4aa5-86df-ea2d2f7b76b9" />
+
+
 
 ### Pay Merchant
-![Merchant](<img width="1366" height="768" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/bb8a690f-117f-4f6e-8576-d45a8a943f1e" />
-)
+ <img width="1366" height="768" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/bb8a690f-117f-4f6e-8576-d45a8a943f1e" />
+
 
 ### Bill Payments
-![Bills](<img width="1366" height="768" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/62000852-5346-4fd9-b6b7-de51eaf33e18" />
-)
+ <img width="1366" height="768" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/62000852-5346-4fd9-b6b7-de51eaf33e18" />
+
 
 ### Transactions
-![Transactions](<img width="1366" height="768" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/6819fde8-ccbb-4417-9cad-0589a520d474" />
-)
+ <img width="1366" height="768" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/6819fde8-ccbb-4417-9cad-0589a520d474" />
+
 ---
 
 ## 🧑‍💻 Author
