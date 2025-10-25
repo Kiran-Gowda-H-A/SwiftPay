@@ -156,6 +156,7 @@ npm run dev
 ### Send Money
 ![Send Money](<img width="1366" height="768" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/b755cab1-1da6-4aa5-86df-ea2d2f7b76b9" />
 )
+<img width="1366" height="768" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/a29998e4-9a84-47e0-8206-7e6788da6837" />
 
 ### Pay Merchant
 ![Merchant](<img width="1366" height="768" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/bb8a690f-117f-4f6e-8576-d45a8a943f1e" />
