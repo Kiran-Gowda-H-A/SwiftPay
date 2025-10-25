@@ -146,23 +146,28 @@ npm run dev
 ## 🧾 Screenshots
 
 ### Dashboard
-![Dashboard](./assets/screenshots/dashboard.png)
+![Dashboard](<img width="1366" height="768" alt="Screenshot (179)" src="https://github.com/user-attachments/assets/439904bd-3df9-4996-bb4b-7bf96837a425" />
+)
 
 ### Add Money
-![Add Money](./assets/screenshots/add-money.png)
+![Add Money](<img width="1366" height="768" alt="Screenshot (180)" src="https://github.com/user-attachments/assets/ccc1b617-b0c9-401c-9ba2-441b95988b04" />
+)
 
 ### Send Money
-![Send Money](./assets/screenshots/send-money.png)
+![Send Money](<img width="1366" height="768" alt="Screenshot (181)" src="https://github.com/user-attachments/assets/b755cab1-1da6-4aa5-86df-ea2d2f7b76b9" />
+)
 
 ### Pay Merchant
-![Merchant](./assets/screenshots/merchant.png)
+![Merchant](<img width="1366" height="768" alt="Screenshot (182)" src="https://github.com/user-attachments/assets/bb8a690f-117f-4f6e-8576-d45a8a943f1e" />
+)
 
 ### Bill Payments
-![Bills](./assets/screenshots/bills.png)
+![Bills](<img width="1366" height="768" alt="Screenshot (183)" src="https://github.com/user-attachments/assets/62000852-5346-4fd9-b6b7-de51eaf33e18" />
+)
 
 ### Transactions
-![Transactions](./assets/screenshots/transactions.png)
-
+![Transactions](<img width="1366" height="768" alt="Screenshot (184)" src="https://github.com/user-attachments/assets/6819fde8-ccbb-4417-9cad-0589a520d474" />
+)
 ---
 
 ## 🧑‍💻 Author
